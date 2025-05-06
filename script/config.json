@@ -1,4 +1,4 @@
 {
-  "binance_api_key":"QNCqYilcOBAt8w65TLwVbZLn9CJTnY8kMmg6lwPBCnehtNCU2rankloQueCgqGOx",
-  "binance_api_secret":"WK6kDIyUoWNKNjl9x9is5G4Qt8iHGIimP0SvjPGqi1V011h45X8nuFUm0IbnepNJ"
+  "binance_api_key":"api-key",
+  "binance_api_secret":"api-secret"
 }
